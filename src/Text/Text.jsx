@@ -13,7 +13,7 @@ const Text = () => {
     <button onClick={() => setLinea (linea + 1)}>Siguiente</button>     
     {
         lines.map((line, index) => (
-          <Parrafo fondo = {index === linea} key={index}>{line}</Parrafo>
+          <Parrafo fondo = { index === linea } key={index}>{line}</Parrafo>
         ))
       }
   </div>

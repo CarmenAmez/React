@@ -19,7 +19,9 @@ import ReactDOM from 'react-dom/client'
 //import App from './pop/Pop'
 //import App from './imput/Imput'
 //import App from './components/Box/Box.jsx'
-import App from './Text/Text.jsx'
+//import App from './Text/Text.jsx'
+//import App from './Trivial/Trivial.jsx'
+import App from './Sport/Sport.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
