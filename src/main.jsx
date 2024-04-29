@@ -25,7 +25,8 @@ import ReactDOM from 'react-dom/client'
 //import App from './Router/Router.jsx'
 //import App from './useEffects/UseEffects.jsx'
 //import App from './CN/App.jsx'
-import App from './falacias/App.jsx'
+//import App from './falacias/App.jsx'
+import App from './Rick&Morty/App'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
